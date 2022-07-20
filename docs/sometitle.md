@@ -4,7 +4,7 @@
 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut magni tempore suscipit unde quidem vero sint autem culpa porro! Quae nihil obcaecati iusto? Vitae aperiam dicta corrupti in nobis officia itaque error unde! Quasi iste id numquam vitae dicta? Laudantium.
 
-```planReducer.jsx
+```javascript
 // Sample context code
 const planReducer = (state, action) => {
   switch (action.type) {
