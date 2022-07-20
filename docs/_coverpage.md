@@ -8,7 +8,7 @@
 - No statically built html files
 
 [GitHub](https://github.com/bobbykim89/docsify-practice)
-[Get Started](/README)
+[Get Started](README.md)
 
 <!-- background color -->
 
