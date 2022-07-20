@@ -5,10 +5,10 @@
 > A Simple documentation powered by Docsify
 
 - Simple and lightweight
-- No statically built html files
+- All release notes of Manguito page and Mango Planner
 
 [GitHub](https://github.com/bobbykim89/docsify-practice)
-[Get Started](README.md)
+[Get Started](#some-title-2)
 
 <!-- background color -->
 
